@@ -1,2 +1,3 @@
-# MyGit-Journey
+=== Welcome to MyGit-Journey ===
+
 Working labs for NetAcad course Cisco DevASC 200-901 
